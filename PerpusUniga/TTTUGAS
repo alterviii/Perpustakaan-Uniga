@@ -1,0 +1,17 @@
+Tugas 3
+
+BUAT CRUD UNTUK SEMUA TABEL
+BUAT TABEL DOSEN DENGAN FIELD BERIKUT 
+	id_dosen
+	nama_dosen
+	alamat
+	telepon
+BUAT TABEL MATAKULIAH DENGAN FIELD BERIKUT
+	id_matkul
+	nama_matkul
+BUAT TABEL JADWALKULIAH DENGAN FIELD BERIKUT
+	id_kuliah
+	hari
+	jam
+	matakuliah
+	dosen
